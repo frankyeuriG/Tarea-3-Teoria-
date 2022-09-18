@@ -1,0 +1,15 @@
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.csproj.AssemblyReference.cache
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.AssemblyInfoInputs.cache
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.AssemblyInfo.cs
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.csproj.CoreCompileInputs.cache
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\bin\Debug\net6.0\Tarea3Teoria.exe
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\bin\Debug\net6.0\Tarea3Teoria.deps.json
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\bin\Debug\net6.0\Tarea3Teoria.runtimeconfig.json
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\bin\Debug\net6.0\Tarea3Teoria.dll
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\bin\Debug\net6.0\Tarea3Teoria.pdb
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.dll
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\refint\Tarea3Teoria.dll
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.pdb
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\Tarea3Teoria.genruntimeconfig.cache
+C:\Users\frank\Desktop\Aplicada1\Tarea 3 Teoria\Tarea3Teoria\obj\Debug\net6.0\ref\Tarea3Teoria.dll
